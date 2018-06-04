@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{97B4C8C0-E389-96B1-B32B-6234087EF379}") = "Colors Quiz", "Assembly-CSharp.csproj", "{8536B63E-1DC7-85AB-9AD6-F50DB648A01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8536B63E-1DC7-85AB-9AD6-F50DB648A01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8536B63E-1DC7-85AB-9AD6-F50DB648A01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8536B63E-1DC7-85AB-9AD6-F50DB648A01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8536B63E-1DC7-85AB-9AD6-F50DB648A01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
